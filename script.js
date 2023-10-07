@@ -23,7 +23,21 @@ function showKeyCodes(e) {
         insert.appendChild(div)
     }
 
+
+
 };
+
+
+
+
+
+
+
+
+
+
+
+
 
 // eventListener
 window.addEventListener('keydown', showKeyCodes);

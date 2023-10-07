@@ -28,17 +28,6 @@ function showKeyCodes(e) {
 };
 
 
-
-
-
-
-
-
-
-
-
-
-
 // eventListener
 window.addEventListener('keydown', showKeyCodes);
 
